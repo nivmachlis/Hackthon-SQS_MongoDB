@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AnalyticsEnum.cs" />
     <Compile Include="Interfaces\DataInterface.cs" />
     <Compile Include="DataEventDTO.cs" />
     <Compile Include="JsonDataDTO.cs" />

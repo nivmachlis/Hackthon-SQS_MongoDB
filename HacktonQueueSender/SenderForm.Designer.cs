@@ -37,7 +37,7 @@
             this.buttonSendEventMessages.Name = "buttonSendEventMessages";
             this.buttonSendEventMessages.Size = new System.Drawing.Size(264, 334);
             this.buttonSendEventMessages.TabIndex = 0;
-            this.buttonSendEventMessages.Text = "Send Event Messages";
+            this.buttonSendEventMessages.Text = "Send Messages";
             this.buttonSendEventMessages.UseVisualStyleBackColor = true;
             this.buttonSendEventMessages.Click += new System.EventHandler(this.buttonSendEventMessages_Click);
             // 
