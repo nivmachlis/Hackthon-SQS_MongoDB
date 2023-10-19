@@ -1,0 +1,89 @@
+{
+  "EventValues": [
+    {
+      "data": {
+        "EventCategory": "Main Menu",
+        "EventAction": "Click",
+        "EventLabel": "Click open main menu",
+        "EventTime": "2023-10-05T13:45:30.000Z",
+        "SessionID": 2853413,
+        "EventID": 213124
+      },
+      "AnalyticsName": "Events"
+    },
+    {
+      "data": {
+        "EventCategory": "Main Menu",
+        "EventAction": "Double click",
+        "EventLabel": "Choosed display graph",
+        "Eventtime": "2023-10-05T13:46:00.000Z",
+        "SessionID": 2853413,
+        "EventID": 213125
+      },
+      "AnalyticsName": "Events"
+    },
+    {
+      "data": {
+        "EventCategory": "Graph settings",
+        "EventAction": "Double click",
+        "EventLabel": "linear graph",
+        "Eventtime": "2023-10-05T13:47:00.000Z",
+        "SessionID": 2853413,
+        "EventID": 213126
+      },
+      "AnalyticsName": "Events"
+    },
+    {
+      "data": {
+        "EventCategory": "Assign value",
+        "EventAction": "Add aditional filter",
+        "EventLabel": "y = 3x + 4",
+        "Eventtime": "2023-10-05T13:49:00.000Z",
+        "SessionID": 2853413,
+        "EventID": 213127
+      },
+      "AnalyticsName": "Events"
+    },
+    {
+      "data": {
+        "EventCategory": "Display graph",
+        "EventAction": "Click",
+        "EventLabel": "click display graph",
+        "Eventtime": "2023-10-05T13:50:00.000Z",
+        "SessionID": 2853413,
+        "EventID": 213130
+      },
+      "AnalyticsName": "Events"
+    }
+  ],
+  "SessionsValues": [
+    {
+      "data": {
+        "UserID": 54321,
+        "VisitStartTime": "2023-10-05T13:45:00.000Z",
+        "VisitEndTime": "",
+        "EventNumberinsession": 0,
+        "OperatingSystem": "Windows 10",
+        "SessionID": 2853413,
+        "date": "2023-10-05T13:45:00.000Z"
+      },
+      "AnalyticsName": "Sessions"
+    }
+  ],
+  "UsersValues": [
+    {
+      "data": {
+        "UserID": 54321,
+        "Email": "Nivmachlis@github.com",
+        "Phone": "0123456789",
+        "Country": "U.S",
+        "City": "Washington D.C",
+        "VisitNumber": 28,
+        "EventsNumber": 4052,
+        "TimeOnSite": 452.3,
+        "UserType": "Advance"
+      },
+      "AnalyticsName": "Users"
+    }
+  ]
+}
